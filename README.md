@@ -1,5 +1,4 @@
-# BMT-survival-prediction-lukemia-
-Here’s a tailored project description for your GitHub repository, based on the details you’ve shared:
+# BMT-survival-prediction-lukemia
 
 ---
 
