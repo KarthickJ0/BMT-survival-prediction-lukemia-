@@ -28,7 +28,7 @@ This project aims to develop a machine learning-based system to predict survival
 ## Installation:
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/survival-prediction-leukemia
+   git clone https://github.com/KarthickJ0/survival-prediction-leukemia
    ```
 2. Install the required dependencies:
    ```
